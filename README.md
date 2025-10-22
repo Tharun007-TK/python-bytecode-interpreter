@@ -1,3 +1,8 @@
+<p align="center">
+    <!-- Prefer markdown image pointing to the bundled banner in src/ so GitHub renders it correctly -->
+    <img src="src/banner.png" alt="Python Bytecode Interpreter Banner" style="max-width:100%; height:auto;" />
+</p>
+
 # 🐍 Byterun-Py311 — A Python Interpreter Written in Python 3.11+
 
 A small, educational implementation of a Python **bytecode interpreter** that runs Python code by interpreting its own **Python 3.11+ bytecode**. This project serves as a learning tool to understand how Python's virtual machine works internally.
