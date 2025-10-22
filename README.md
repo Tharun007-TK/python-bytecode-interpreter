@@ -35,7 +35,7 @@ Inspired by [Byterun (AOSA Book)](https://aosabook.org/en/500L/a-python-interpre
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tharun007-TK/byterun-py311.git
+git clone https://github.com/Tharun007-TK/python-bytecode-interpreter.git
 cd byterun-py311
 
 # Install in development mode
@@ -202,8 +202,8 @@ We welcome contributions! Here's how to get started:
 1. **Fork and Clone**
 
    ```bash
-   git clone https://github.com/Tharun007-TK/byterun-py311.git
-   cd byterun-py311
+   git clone https://github.com/Tharun007-TK/python-bytecode-interpreter.git
+   cd python-bytecode-interpreter
    ```
 
 2. **Create Virtual Environment**
@@ -297,8 +297,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Tharun007-TK/byterun-py311/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Tharun007-TK/byterun-py311/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Tharun007-TK/python-bytecode-interpreter/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Tharun007-TK/python-bytecode-interpreter/discussions)
 - **Documentation**: This README and inline code comments
 
 ---
